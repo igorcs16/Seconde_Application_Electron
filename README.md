@@ -1,2 +1,3 @@
 # Seconde_Application_Electron
-Learning with Electron
+
+electron application to add comments in main window
